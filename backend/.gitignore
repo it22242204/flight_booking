@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+
+# Build files
+/dist
+/build
+
+# Dependency directories
+jspm_packages/
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# React build files
+/public/build/
+
+# Templating engines
+*.hbs
